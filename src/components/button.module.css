@@ -1,0 +1,13 @@
+.button {
+  padding: 25px 30px;
+  border-radius: 25px;
+  border: none;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  &:hover {
+    background-color: rgb(66, 73, 89);
+  }
+}
